@@ -1,0 +1,11 @@
+# Local drafts and backups — never published
+*.bak
+*.tmp
+index-v0-draft.html
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
